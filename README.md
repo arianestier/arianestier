@@ -1,4 +1,4 @@
-![zoomBG2 (1)](https://user-images.githubusercontent.com/84518950/131428442-6d8c94c4-69b0-4e8d-8352-02086e82bc1c.png)
+<img width="1089" alt="Screen Shot 2021-11-20 at 4 39 00 PM" src="https://user-images.githubusercontent.com/84518950/142744010-c3cf87ad-9794-40b7-8430-f1e61d38564c.png">
 
 
 - 👋 Hi, I’m @arianestier
